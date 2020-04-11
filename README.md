@@ -6,4 +6,4 @@
 読者は必要に応じて下記の原文を参照するようにしてください｡
 
 原文URL:
-https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/877678/coronavirusleaflet.pdf
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/877678/coronavirus-leaflet.pdf
